@@ -1,0 +1,28 @@
+{
+  "name": "bai1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngonhatthien120/nodejs_web.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs"
+  ],
+  "author": "thienn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngonhatthien120/nodejs_web/issues"
+  },
+  "homepage": "https://github.com/ngonhatthien120/nodejs_web#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
